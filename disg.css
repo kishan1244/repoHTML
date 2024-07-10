@@ -1,0 +1,159 @@
+.main{
+    background-color: gold;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+    align-items: center;
+    
+}
+.one{
+    background-color: red;
+    height: 400px;
+    width: 800px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+
+}
+.a{
+    background-color: rgb(115, 115, 185);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a1{
+    background-color: rgb(128, 207, 210);
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+
+}
+.b{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b1{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    
+}
+
+.c{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c1{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    
+}
+
+.two{
+    background-color:red;
+    height: 400px;
+    width: 800px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+
+}
+
+.t1{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    
+}
+.t2{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    
+}
+.three{
+    background-color: red;
+    height: 400px;
+    width: 800px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+
+}
+.ab1{
+    background-color: rgb(115, 115, 185);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    margin: 5px;
+
+}
+.i{
+    background-color: rgb(128, 207, 210);
+    height: 75px;
+    width: 75px;
+    border: 1px solid black;
+
+
+}
+.i2{
+    background-color: rgb(128, 207, 210);
+    height: 75px;
+    width: 75px;
+    border: 1px solid black;
+
+}
+.ab2{
+    background-color: rgb(115, 115, 185);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around ;
+    
+}
+
+.j1{
+    background-color: rgb(128, 207, 210);
+    height: 75px;
+    width: 75px;
+    border: 1px solid black;
+}
+.j2{
+    background-color: rgb(128, 207, 210);
+    height: 75px;
+    width: 75px;
+    border: 1px solid black;
+
+}
+
+
+
+
+
